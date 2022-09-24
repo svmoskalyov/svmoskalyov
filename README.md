@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sergii Moskalov
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding  web-developer
-- 💞️ I’m looking to work on position web-develop
+- 👋 Hi, I’m Sergiy Moskalyov
+- 🧩 I’m interested in coding
+- 👨‍🎓 I'm currently learning to code as a web developer
+- 👀 I'm looking for a job as a web developer
 - 📫 s.v.moskalyov+github.com@gmail.com
 
 <!---
