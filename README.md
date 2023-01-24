@@ -5,9 +5,7 @@
 
 ## Get in touch:
 <a href="mailto:sv.moskalyov@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /> </a>
-
-[![Gmail Badge](https://img.shields.io/badge/sv.moskalyov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRspPhrklBrCwrrvcRNFjmrpLtFWzvPlsjXfFBPtQRnhppGjnkDZhRGTMgCKMfhDPPhBlPQ)
-
+<a href="https://www.linkedin.com/in/.../" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&logo=linkedin&logoColor=white" /></a>
 
 
 <!---
