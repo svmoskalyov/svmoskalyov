@@ -22,7 +22,7 @@
 
 ## GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=svmoskalyov&show_icons=true&theme=monokai)
-![Most Langbsges](https://github-readme-stats.vercel.app/api/top-langs/?username=svmoskalyov&exclude_repo=&hide=&langs_count=5&layout=compact&custom_title=GitHub Stats&theme=monokai)
+![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svmoskalyov&exclude_repo=&hide=&langs_count=5&layout=compact&custom_title=GitHub Stats&theme=monokai)
 
 
 <!---
