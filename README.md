@@ -26,11 +26,11 @@
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=svmoskalyov&show_icons=true&hide=stars,issues&bg_color=00000000&icon_color=ff652f&theme=default#gh-dark-mode-only)](https://github.com/svmoskalyov/github-readme-stats#gh-dark-mode-only)
 --->
 
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=svmoskalyov&show_icons=true&icon_color=ffc600&hide=stars,issues&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov/github-readme-stats#gh-light-mode-only)
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=svmoskalyov&show_icons=true&icon_color=ffc600&hide=stars,issues&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=svmoskalyov&show_icons=true&icon_color=ffc600&hide=stars,issues&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=svmoskalyov&show_icons=true&icon_color=ffc600&hide=stars,issues&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov#gh-dark-mode-only)
 
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=svmoskalyov&langs_count=6&layout=compact&bg_color=00000000&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov/github-readme-stats#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=svmoskalyov&langs_count=6&layout=compact&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=svmoskalyov&langs_count=6&layout=compact&bg_color=00000000&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=svmoskalyov&langs_count=6&layout=compact&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov#gh-dark-mode-only)
 
 <!---
 svmoskalyov/svmoskalyov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
