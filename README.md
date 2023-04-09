@@ -40,7 +40,6 @@
 [![icecream](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=icecream&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/icecream)
 [![webstudio](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=webstudio&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/webstudio)
 [![react-template](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=react-template&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/react-template)
-[![mikrotik-rb-script](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=mikrotik-rb-script&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/mikrotik-rb-script)
 
 <!---
 svmoskalyov/svmoskalyov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
