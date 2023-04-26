@@ -36,6 +36,7 @@
 --->
 
 ## 📌 Pinned
+[![finances-planner](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=finances-planner&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/finances-planner)
 [![cocktails](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=cocktails&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/cocktails)
 [![icecream](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=icecream&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/icecream)
 [![webstudio](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=webstudio&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/webstudio)
