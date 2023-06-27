@@ -21,26 +21,26 @@
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ## 📊 Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&show_icons=true&icon_color=ffc600&count_private=true&hide=stars,issues&bg_color=00000000)](https://github.com/svmoskalyov)
+[![GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&show_icons=true&icon_color=ffc600&count_private=true&hide=stars,issues&bg_color=00000000)](https://github.com/svmoskalyov)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&langs_count=6&layout=compact&bg_color=00000000)](https://github.com/svmoskalyov)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&langs_count=6&layout=compact&bg_color=00000000)](https://github.com/svmoskalyov)
 
 <!---
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&show_icons=true&icon_color=ffc600&hide=stars,issues&bg_color=00000000&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov#gh-light-mode-only)
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&show_icons=true&icon_color=ffc600&hide=stars,issues&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-ruby-one.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&show_icons=true&icon_color=ffc600&hide=stars,issues&bg_color=00000000&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats-ruby-one.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&show_icons=true&icon_color=ffc600&hide=stars,issues&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov#gh-dark-mode-only)
 --->
 
 <!---
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&langs_count=6&layout=compact&bg_color=00000000&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&langs_count=6&layout=compact&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&langs_count=6&layout=compact&bg_color=00000000&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&langs_count=6&layout=compact&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov#gh-dark-mode-only)
 --->
 
 ## 📌 Pinned
-[![finances-planner](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=finances-planner&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/finances-planner)
-[![cocktails](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=cocktails&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/cocktails)
-[![icecream](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=icecream&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/icecream)
-[![webstudio](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=webstudio&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/webstudio)
-[![react-template](https://github-readme-stats.vercel.app/api/pin/?username=svmoskalyov&repo=react-template&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/react-template)
+[![finances-planner](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=svmoskalyov&repo=finances-planner&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/finances-planner)
+[![cocktails](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=svmoskalyov&repo=cocktails&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/cocktails)
+[![icecream](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=svmoskalyov&repo=icecream&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/icecream)
+[![webstudio](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=svmoskalyov&repo=webstudio&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/webstudio)
+[![react-template](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=svmoskalyov&repo=react-template&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/react-template)
 
 <!---
 svmoskalyov/svmoskalyov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
