@@ -69,6 +69,7 @@ As a FULLSTACK DEVELOPER, I am proficient in HTML5, CSS3, JavaScript, React, Nod
 --->
 
 ## 📌 Pinned
+[![taskpro](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=taskpro&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/taskpro)
 [![taskpro-api](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=taskpro-api&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/taskpro-api)
 [![finances-planner](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=finances-planner&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/finances-planner)
 [![cocktails](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=cocktails&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/cocktails)
