@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Serhii
-As a FULL STACK DEVELOPER, I am proficient in HTML5, CSS3, JavaScript, React, Node.js, e.t.c.
+As a FULL STACK DEVELOPER, I am proficient in HTML5, CSS3, JavaScript, Node.js, React, React Native, etc.
 👨‍💻 I'm currently a junior developer, but I'm progressing in development to grow professionally
 👀 I'm looking for a job as a web-developer
 
@@ -69,6 +69,7 @@ As a FULL STACK DEVELOPER, I am proficient in HTML5, CSS3, JavaScript, React, No
 --->
 
 ## 📌 Pinned
+[![posts-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=posts-app&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/posts-app)
 [![taskpro](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=taskpro&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/taskpro)
 [![taskpro-api](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=taskpro-api&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/taskpro-api)
 [![finances-planner](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=finances-planner&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/finances-planner)
