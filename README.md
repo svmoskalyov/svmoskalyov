@@ -78,6 +78,7 @@ As a FULL STACK DEVELOPER, I am proficient in HTML5, CSS3, JavaScript, Node.js, 
 --->
 
 ## 📌 Pinned
+[![leo-car-rental](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=leo-car-rental&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/leo-car-rental)
 [![posts-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=posts-app&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/posts-app)
 [![taskpro](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=taskpro&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/taskpro)
 [![taskpro-api](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=taskpro-api&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/taskpro-api)
@@ -85,7 +86,6 @@ As a FULL STACK DEVELOPER, I am proficient in HTML5, CSS3, JavaScript, Node.js, 
 [![cocktails](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=cocktails&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/cocktails)
 [![icecream](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=icecream&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/icecream)
 [![webstudio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=webstudio&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/webstudio)
-[![react-template](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=react-template&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/react-template)
 
 <!---
 svmoskalyov/svmoskalyov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
