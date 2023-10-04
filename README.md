@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Serhii
-As a FULL STACK DEVELOPER, I am proficient in HTML5, CSS3, JavaScript, Node.js, React, React Native, etc.
+As a Full-stack Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt, React, React Native, Node.js etc.
 👨‍💻 I'm currently a junior developer, but I'm progressing in development to grow professionally
 👀 I'm looking for a job as a web-developer
 
@@ -10,9 +10,11 @@ As a FULL STACK DEVELOPER, I am proficient in HTML5, CSS3, JavaScript, Node.js, 
 ## 🛠 Technologies & Languages & Tools
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React_Native">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" alt="TS_Node">
 
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React_Router">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
