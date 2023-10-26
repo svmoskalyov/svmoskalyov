@@ -1,13 +1,13 @@
 ## 👋 Hi, I’m Serhii
 As a Full-stack Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt, React, React Native, Node.js etc.
 👨‍💻 I'm currently a junior developer, but I'm progressing in development to grow professionally
-👀 I'm looking for a job as a web-developer
+👀 I'm looking for a job as a Front-end developer
 
 ## 📣 Get in touch
 <a href="mailto:sv.moskalyov@gmail.com" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
 <a href="https://www.linkedin.com/in/serhii-moskalov/" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /> </a>
 
-## 🛠 Technologies & Languages & Tools
+## 🛠 Technologies - Languages - Tools
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -63,10 +63,13 @@ As a Full-stack Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScryp
 <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="Google_Meet">
 
 
-## 📊 Statistics
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&show_icons=true&icon_color=ffc600&count_private=true&hide=stars,issues&bg_color=00000000)](https://github.com/svmoskalyov)
 
+## 📊 Statistics Langs
+<!---
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&show_icons=true&icon_color=ffc600&count_private=true&hide=stars,issues&bg_color=00000000)](https://github.com/svmoskalyov)
+--->
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&langs_count=6&layout=compact&bg_color=00000000)](https://github.com/svmoskalyov)
+
 
 <!---
 [![GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&show_icons=true&icon_color=ffc600&hide=stars,issues&bg_color=00000000&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov#gh-light-mode-only)
