@@ -1,13 +1,13 @@
 ## 👋 Hi, I’m Serhii
 As a Full-stack Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt, React, React Native, Node.js etc.
 👨‍💻 I'm currently a junior developer, but I'm progressing in development to grow professionally
-👀 I'm looking for a job as a Front-end developer
+👀 I'm looking for a job as a Front-end Developer
 
 ## 📣 Get in touch
 <a href="mailto:sv.moskalyov@gmail.com" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
 <a href="https://www.linkedin.com/in/serhii-moskalov/" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /> </a>
 
-## 🛠 Technologies - Languages - Tools
+## 🧰 Technologies - Languages - Tools
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
