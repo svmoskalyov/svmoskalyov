@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Serhii
-As a Full-stack Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt, React, React Native, Node.js etc.
+As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt, React, React Native, Node.js etc.
 👨‍💻 I'm currently a junior developer, but I'm progressing in development to grow professionally
 👀 I'm looking for a job as a Front-end Developer
 
@@ -63,25 +63,12 @@ As a Full-stack Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScryp
 <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="Google_Meet">
 
 
-
 ## 📊 Statistics Langs
-<!---
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&show_icons=true&icon_color=ffc600&count_private=true&hide=stars,issues&bg_color=00000000)](https://github.com/svmoskalyov)
---->
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&langs_count=6&layout=compact&bg_color=00000000)](https://github.com/svmoskalyov)
 
 
-<!---
-[![GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&show_icons=true&icon_color=ffc600&hide=stars,issues&bg_color=00000000&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov#gh-light-mode-only)
-[![GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=svmoskalyov&card_width=450&hide_title=true&show_icons=true&icon_color=ffc600&hide=stars,issues&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov#gh-dark-mode-only)
---->
-
-<!---
-[![Top Langs-Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&langs_count=6&layout=compact&bg_color=00000000&theme=vue#gh-light-mode-only)](https://github.com/svmoskalyov#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&langs_count=6&layout=compact&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/svmoskalyov#gh-dark-mode-only)
---->
-
 ## 📌 Pinned
+[![private-driver](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=private-driver&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/private-driver)
 [![leo-car-rental](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=leo-car-rental&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/leo-car-rental)
 [![posts-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=posts-app&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/posts-app)
 [![taskpro](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=taskpro&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/taskpro)
@@ -89,7 +76,7 @@ As a Full-stack Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScryp
 [![finances-planner](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=finances-planner&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/finances-planner)
 [![cocktails](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=cocktails&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/cocktails)
 [![icecream](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=icecream&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/icecream)
-[![webstudio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=webstudio&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/webstudio)
+
 
 <!---
 svmoskalyov/svmoskalyov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
