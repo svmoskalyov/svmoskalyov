@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Serhii
-As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt, React, React Native, Node.js etc.
+As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt, Vue, React, React Native, Node.js etc.
 👨‍💻 I'm currently a junior developer, but I'm progressing in development to grow professionally
 👀 I'm looking for a job as a Front-end Developer
 
@@ -11,6 +11,7 @@ As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React_Native">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -29,6 +30,7 @@ As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt
 <img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" alt="Lodash">
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier">
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint">
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack">
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Babel">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
@@ -64,10 +66,11 @@ As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt
 
 
 ## 📊 Statistics Langs
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&langs_count=6&layout=compact&bg_color=00000000)](https://github.com/svmoskalyov)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svmoskalyov&card_width=450&hide_title=true&text_color=41b883&langs_count=7&layout=compact&bg_color=00000000)](https://github.com/svmoskalyov)
 
 
 ## 📌 Pinned
+[![best-tires](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=best-tires&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/private-driver)
 [![private-driver](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=private-driver&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/private-driver)
 [![leo-car-rental](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=leo-car-rental&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/leo-car-rental)
 [![posts-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=posts-app&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/posts-app)
