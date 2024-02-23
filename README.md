@@ -70,7 +70,7 @@ As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt
 
 
 ## 📌 Pinned
-[![best-tires](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=best-tires&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/private-driver)
+[![best-tires](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=best-tires&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/best-tires)
 [![private-driver](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=private-driver&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/private-driver)
 [![leo-car-rental](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=leo-car-rental&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/leo-car-rental)
 [![posts-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=posts-app&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/posts-app)
