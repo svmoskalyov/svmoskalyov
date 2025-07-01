@@ -94,7 +94,7 @@ As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt
 
 ## 📌 Pinned
 [![e-pharmacy-admin](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=e-pharmacy-admin&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/e-pharmacy-admin)
-[![e-pharmacy](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=e-pharmacy&icon_color=e-pharmacyffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/e-pharmacy)
+[![e-pharmacy](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=e-pharmacy&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/e-pharmacy)
 [![read-journey](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=read-journey&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/read-journey)
 [![todobri](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=todobri&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/todobri)
 [![psychologists-services](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=psychologists-services&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/psychologists-services)
