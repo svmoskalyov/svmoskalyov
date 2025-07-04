@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Serhii
-As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt, Vue, React, React Native, Node.js etc.
+As a Front-end Developer, I am proficient in HTML5, CSS3, JavaScript, TypeScrypt, Vue3, React, React Native, Node.js etc.
 👨‍💻 I'm currently a junior developer, but I'm progressing in development to grow professionally
 👀 I'm looking for a job as a Front-end Developer
 
